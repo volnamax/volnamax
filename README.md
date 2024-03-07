@@ -10,22 +10,13 @@
 <!-- git stata  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=volnamax)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- bmstu line -->
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=BMSTU+Software+Engineering+Student)](https://git.io/typing-svg)
-
 <!-- about me-->
-# About me
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=About+me+:)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- 🔭 I'm studing at [Bauman Moscow State University](https://bmstu.ru).
+- 🌱 I’m currently learning Androing development.
+- ⚡ Active lifestyle: skiing, hiking, swimming. 
+- 👯 **I am open to getting involved in <u>new interesting</u> projects.**
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

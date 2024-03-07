@@ -1,8 +1,15 @@
+<!--Profile view-->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=volnamax&style=flat-square&color=30D5C8" alt="Profile Views">
+</p>
+
+<!--banner header-->
 ![header](header.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BMSTU+Software+Engineering+Student+)](https://git.io/typing-svg)
+<!-- bmstu line -->
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=BMSTU+Software+Engineering+Student)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-volnamax)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volnamax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

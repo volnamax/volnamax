@@ -13,10 +13,10 @@
 <!-- about me-->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=About+me+:)](https://git.io/typing-svg)
 
-- 🔭 I'm studing at [Bauman Moscow State University](https://bmstu.ru).
-- 🌱 I’m currently learning Androing development.
-- ⚡ Active lifestyle: skiing, hiking, swimming. 
-- 👯 **I am open to getting involved in <u>new interesting</u> projects.**
+- 🔭 **Studying Software Engineering** at [Bauman Moscow State University](https://bmstu.ru), focusing on cutting-edge software development practices and principles.
+- 🌱 **Learning Android development**, with a keen interest in new technologies and frameworks.
+- ⚡ **Active Lifestyle**: I enjoy skiing, hiking, and swimming to keep life balanced.
+- 👯 **Open for Collaboration**: Eager to join exciting projects and expand my skills.
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

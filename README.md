@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=volnamax)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volnamax&theme=solarized_dark)

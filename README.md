@@ -2,14 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BMSTU+Software+Engineering+Student+)](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volnamax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volnamax)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=volnamax)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=volnamax)](https://git.io/streak-stats)
-
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volnamax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...

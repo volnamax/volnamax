@@ -19,6 +19,7 @@
 
 <!-- language-->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Languages:)](https://git.io/typing-svg)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -33,7 +34,18 @@
 
 <!-- Databases -->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Databases:)](https://git.io/typing-svg)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Frameworks & Libraries -->
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=30D5C8&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Frameworks+&+Libraries+:)](https://git.io/typing-svg)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### IDEs & Editors
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) _// Пример_
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) _// Пример_
+
 
 
 
